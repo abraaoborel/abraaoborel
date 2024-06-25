@@ -1,5 +1,3 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on my first Python Project: RPG_Terminal 
-- 🌱 I’m currently learning HTML e CSS, and English
+- 🐧💻 Currently having fun with Linux, and studying hard to get some certificates from LPIC (Linux Professional Institute)
 - 😄 Pronouns: he/him
