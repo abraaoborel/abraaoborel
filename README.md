@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Abraão
+# 👋 Olá,
 
 Sou um aspirante a profissional de TI com foco em **Linux, Redes (Cisco)** e **Cybersecurity**.
 Atualmente estudo de forma autodidata, realizando labs práticos e documentando meu aprendizado.
