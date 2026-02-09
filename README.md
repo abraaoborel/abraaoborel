@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Abraão
 
-<!--
-**abraaoborel/abraaoborel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um aspirante a profissional de TI com foco em **Linux, Redes (Cisco)** e **Cybersecurity**.
+Atualmente estudo de forma autodidata, realizando labs práticos e documentando meu aprendizado.
 
-Here are some ideas to get you started:
+## 🔧 Áreas de estudo
+- Linux fundamentals (Debian)
+- Redes de computadores (Cisco / NetAcad)
+- Infraestrutura e fundamentos de Cybersecurity
+- Laboratórios práticos e documentação técnica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Repositórios em destaque
+- 📘 linux-fundamentals-notes
+- 🌐 networking-labs
+- 🔐 cybersecurity-learning-notes
+
+## 🎯 Objetivo
+Construir uma base sólida em infraestrutura, redes e segurança para ingressar
+na área de TI em posições iniciais como suporte, redes ou infraestrutura.
+
+## 📚 Em andamento
+- Cisco NetAcad
+- Estudos em Linux (FOCA Linux)
+- Labs práticos e documentação
