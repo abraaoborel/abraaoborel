@@ -12,7 +12,6 @@ Atualmente estudo de forma autodidata, realizando labs práticos e documentando 
 ## 📂 Repositórios em destaque
 - 📘 linux-fundamentals-notes
 - 🌐 networking-labs
-- 🔐 cybersecurity-learning-notes
 
 ## 🎯 Objetivo
 Construir uma base sólida em infraestrutura, redes e segurança para ingressar
