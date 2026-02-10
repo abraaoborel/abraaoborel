@@ -19,5 +19,5 @@ na área de TI em posições iniciais como suporte, redes ou infraestrutura.
 
 ## 📚 Em andamento
 - Cisco NetAcad
-- Estudos em Linux (Linux Essentials, FOCA Linux, TryHackMe)
+- Estudos em Linux (Linux Essentials, FOCA Linux, TryHackMe, HackTheBox)
 - Labs práticos e documentação
