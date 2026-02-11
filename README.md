@@ -11,6 +11,7 @@ Atualmente estudo de forma autodidata, realizando labs práticos e documentando 
 
 ## 📂 Repositórios em destaque
 - 🌐 networking-labs
+- 🐧​ linux-labs
 
 ## 🎯 Objetivo
 Construir uma base sólida em infraestrutura, redes e segurança para ingressar
