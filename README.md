@@ -10,7 +10,6 @@ Atualmente estudo de forma autodidata, realizando labs práticos e documentando 
 - Laboratórios práticos e documentação técnica
 
 ## 📂 Repositórios em destaque
-- 📘 linux-fundamentals-notes
 - 🌐 networking-labs
 
 ## 🎯 Objetivo
