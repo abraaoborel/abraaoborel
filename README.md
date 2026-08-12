@@ -9,7 +9,8 @@ Sou **Aspirante a profissional de TI** com foco em **Linux, Redes Cisco e Cybers
 - **Documentação técnica e automação** – scripts e configurações de sistema
 
 ## 📂 Repositórios em destaque
-- 🌐 [networking-labs](https://github.com/abraaoborel/networking-labs) – projetos e simulações em Packet Tracer
+- 🌐 [Labs-Network-CCNA-CompTIA](https://github.com/abraaoborel/Labs-Network-CCNA-CompTIA) – Este repositório documenta minha jornada técnica do absoluto zero ao nível avançado em Redes de Computadores. O objetivo é consolidar o conhecimento prático necessário para as certificações Cisco CCNA (200-301) e CompTIA Network+, com foco especial em segurança e automação para uma futura transição para SecDevOps.
+
 - 🐧 [linux-labs](https://github.com/abraaoborel/linux-labs) – scripts, configurações e labs em Linux, incluindo Ubuntu Server e Windows Server
 
 ## 🗄️ Repositórios arquivados / estudos anteriores
